@@ -1,4 +1,4 @@
-* Copyright © 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016 Linear Technology Corporation.   All rights reserved.
+* Copyright (c) 2000-2019 Analog Devices, Inc.   All rights reserved.
 *
 .model Si7336ADP VDMOS(Rg=3.5 Rd=1.2m Rs=800u mtriode=1.9 lambda=0.01 Vto=2.9 Ksubthres=100m Kp=280 Cgdmax=1.6n Cgdmin=200p A=1.5 Cgs=5.2n Cjo=3n M=.5 Is=5p Rb=3m mfg=Siliconix Vds=30 Ron=2.4m Qg=36n)
 .model BSP89 VDMOS(Rg=3 Rd=2.1 Rs=1.7 mtriode=.8 lambda=0.01 Vto=1.6 ksubthres=70m Kp=1.1 Cgdmax=300p Cgdmin=3p A=1 Cgs=70p Cjo=10p M=.25 Vj=.9 Is=600f Rb=.3 mfg=Infineon Vds=240 Ron=4.9 Qg=4.3n)
