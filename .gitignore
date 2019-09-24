@@ -1,2 +1,5 @@
 stamp.bin
 cmp/standard.*.bak
+sub/.*.lib.un~
+sym/.*.asy.un~
+*~

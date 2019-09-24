@@ -19,3 +19,4 @@ files (cmp directory content) are updated.
 Added:
  - LM317
  - LM386
+ - potentiometer
